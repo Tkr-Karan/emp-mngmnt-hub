@@ -2,9 +2,9 @@
 
 ## Project info
 
-**URL**: 
+**URL**: https://github.com/Tkr-Karan/emp-mngmnt-hub
 
-**DEPLOYED LINK**: 
+**LIVE LINK**: https://ethara-employee-hub.netlify.app/employees
 
 Follow these steps:
 
